@@ -1,0 +1,4 @@
+connection = ['95.67.97.56']
+pentagon_log = 'pentagon.log'
+platform = 'atahol.py'
+hacking = true
